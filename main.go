@@ -1,4 +1,4 @@
-package agpl-test
+package agpl_test
 
 import "fmt"
 

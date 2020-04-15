@@ -2,6 +2,6 @@ package agpl_test
 
 import "fmt"
 
-func foo() {
+func Foo() {
     fmt.Println("hello world")
 }
